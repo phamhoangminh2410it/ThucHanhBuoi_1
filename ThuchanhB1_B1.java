@@ -59,7 +59,7 @@ public class ThuchanhB1_B1 {
                             }
                         }
                     }
-                    System.out.printf("%-5s %15s %15s %20s \n", "MSSV", "Họ và tên", "Địa chỉ", "Số điện thoại");
+                    System.out.printf("%-5s %15s %15s %20s \n", "MSSV", "Ho va Ten", "Dia Chi", "So Dien Thoai");
                     for (int i = 0; i < n; i++) {
                         sv[i].showInfo();
                     }
