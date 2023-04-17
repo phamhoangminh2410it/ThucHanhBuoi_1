@@ -35,7 +35,7 @@ public class ThuchanhB1_B1 {
         boolean c = true;
         do {
             menu();
-            System.out.print("Nhap yeu cau: "); int chon = sc.nextInt();
+            System.out.print("Nhap yeu cau: ");
             a = sc.nextInt();
             switch (a) {
                 case 1:
